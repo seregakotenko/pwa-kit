@@ -41,5 +41,8 @@ next-env.d.ts
 /.idea/
 .idea
 
+/.cursor/
+.cursor
+
 /DOC/
 /DOC
